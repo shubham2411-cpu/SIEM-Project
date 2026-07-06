@@ -9,7 +9,6 @@ This project demonstrates a centralized log monitoring and threat detection solu
 - Ubuntu Linux
 - Elasticsearch
 - Logstash
-- Kibana
 - Winlogbeat
 - Windows 10 Virtual Machine
 
