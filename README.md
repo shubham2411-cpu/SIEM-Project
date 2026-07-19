@@ -67,7 +67,7 @@ This project demonstrates how the ELK Stack can be used to centralize Windows ev
 
 The complete project documentation is available in:
 
-**SIEM_Project_Report.pdf**
+**Windows_Security_Monitoring_using_ELK_Stack.pdf**
 
 ---
 
